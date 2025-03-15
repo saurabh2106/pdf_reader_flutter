@@ -1,16 +1,14 @@
-# pdf_reader
+A simple and efficient PDF Reader built using Flutter. This app allows users to select and view PDF files from their device storage.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ Features
+📂 Pick PDF from device storage using file_picker
+📖 View PDFs seamlessly with syncfusion_flutter_pdfviewer
+🔍 Search & Bookmark functionality
+🔒 Storage Permission Handling for Android
+🎨 Dark UI Theme for a sleek look
+🛠️ Technologies Used
+Flutter
+Dart
+Syncfusion PDF Viewer
+File Picker
+Permission Handler
